@@ -1,6 +1,6 @@
 package videoStore;
 
-// Dette er en test på en kommentar
+// Dette er en test på en kommentar.
 
 public class ChildrensMovie extends Movie {
   public ChildrensMovie(String title) {
