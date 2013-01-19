@@ -1,4 +1,3 @@
 INDEX VERSION 1.126+/Users/amo/git/TDDkurs/.metadata/.plugins/org.eclipse.jdt.core
 4242647473.index
-4182636607.index
 2982688190.index
